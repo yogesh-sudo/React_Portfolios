@@ -46,7 +46,7 @@ const Winner = () => {
                   </div>{/* /.winner-thumb */}
                   <div className="info">
                     <h4 className="winner-name">Martin Hook</h4>{/* /.client-name */}
-                    <p className="auction-id">Auction Id: <a href="#">BB28111</a></p>
+                    <p className="auction-id">Auction Id: <a href="#/">BB28111</a></p>
                   </div>{/* /.info */}
                 </div>{/* /.winner-item */}
               </div>{/* /.col-lg-3 */}
@@ -65,7 +65,7 @@ const Winner = () => {
                   </div>{/* /.winner-thumb */}
                   <div className="info">
                     <h4 className="winner-name">Jobs Beker</h4>{/* /.client-name */}
-                    <p className="auction-id">Auction Id: <a href="#">BB28111</a></p>
+                    <p className="auction-id">Auction Id: <a href="#/">BB28111</a></p>
                   </div>{/* /.info */}
                 </div>{/* /.winner-item */}
               </div>{/* /.col-lg-3 */}
@@ -84,7 +84,7 @@ const Winner = () => {
                   </div>{/* /.winner-thumb */}
                   <div className="info">
                     <h4 className="winner-name">Batin Tomas</h4>{/* /.client-name */}
-                    <p className="auction-id">Auction Id: <a href="#">BB28111</a></p>
+                    <p className="auction-id">Auction Id: <a href="#/">BB28111</a></p>
                   </div>{/* /.info */}
                 </div>{/* /.winner-item */}
               </div>{/* /.col-lg-3 */}
@@ -103,7 +103,7 @@ const Winner = () => {
                   </div>{/* /.winner-thumb */}
                   <div className="info">
                     <h4 className="winner-name">Jhon Martin</h4>{/* /.client-name */}
-                    <p className="auction-id">Auction Id: <a href="#">BB28111</a></p>
+                    <p className="auction-id">Auction Id: <a href="#/">BB28111</a></p>
                   </div>{/* /.info */}
                 </div>{/* /.winner-item */}
               </div>{/* /.col-lg-3 */}
@@ -122,7 +122,7 @@ const Winner = () => {
                   </div>{/* /.winner-thumb */}
                   <div className="info">
                     <h4 className="winner-name">Alex Mason</h4>{/* /.client-name */}
-                    <p className="auction-id">Auction Id: <a href="#">BB28111</a></p>
+                    <p className="auction-id">Auction Id: <a href="#/">BB28111</a></p>
                   </div>{/* /.info */}
                 </div>{/* /.winner-item */}
               </div>{/* /.col-lg-3 */}
@@ -141,7 +141,7 @@ const Winner = () => {
                   </div>{/* /.winner-thumb */}
                   <div className="info">
                     <h4 className="winner-name">Batin Tomas</h4>{/* /.client-name */}
-                    <p className="auction-id">Auction Id: <a href="#">BB28111</a></p>
+                    <p className="auction-id">Auction Id: <a href="#/">BB28111</a></p>
                   </div>{/* /.info */}
                 </div>{/* /.winner-item */}
               </div>{/* /.col-lg-3 */}
@@ -160,7 +160,7 @@ const Winner = () => {
                   </div>{/* /.winner-thumb */}
                   <div className="info">
                     <h4 className="winner-name">Martin Hook</h4>{/* /.client-name */}
-                    <p className="auction-id">Auction Id: <a href="#">BB28111</a></p>
+                    <p className="auction-id">Auction Id: <a href="#/">BB28111</a></p>
                   </div>{/* /.info */}
                 </div>{/* /.winner-item */}
               </div>{/* /.col-lg-3 */}
@@ -179,7 +179,7 @@ const Winner = () => {
                   </div>{/* /.winner-thumb */}
                   <div className="info">
                     <h4 className="winner-name">Amelia Daniel</h4>{/* /.client-name */}
-                    <p className="auction-id">Auction Id: <a href="#">BB28111</a></p>
+                    <p className="auction-id">Auction Id: <a href="#/">BB28111</a></p>
                   </div>{/* /.info */}
                 </div>{/* /.winner-item */}
               </div>{/* /.col-lg-3 */}
@@ -198,7 +198,7 @@ const Winner = () => {
                   </div>{/* /.winner-thumb */}
                   <div className="info">
                     <h4 className="winner-name">Sonika Butoni</h4>{/* /.client-name */}
-                    <p className="auction-id">Auction Id: <a href="#">BB28111</a></p>
+                    <p className="auction-id">Auction Id: <a href="#/">BB28111</a></p>
                   </div>{/* /.info */}
                 </div>{/* /.winner-item */}
               </div>{/* /.col-lg-3 */}
@@ -217,7 +217,7 @@ const Winner = () => {
                   </div>{/* /.winner-thumb */}
                   <div className="info">
                     <h4 className="winner-name">Robat Huker</h4>{/* /.client-name */}
-                    <p className="auction-id">Auction Id: <a href="#">BB28111</a></p>
+                    <p className="auction-id">Auction Id: <a href="#/">BB28111</a></p>
                   </div>{/* /.info */}
                 </div>{/* /.winner-item */}
               </div>{/* /.col-lg-3 */}
@@ -236,7 +236,7 @@ const Winner = () => {
                   </div>{/* /.winner-thumb */}
                   <div className="info">
                     <h4 className="winner-name">Abir James</h4>{/* /.client-name */}
-                    <p className="auction-id">Auction Id: <a href="#">BB28111</a></p>
+                    <p className="auction-id">Auction Id: <a href="#/">BB28111</a></p>
                   </div>{/* /.info */}
                 </div>{/* /.winner-item */}
               </div>{/* /.col-lg-3 */}
@@ -255,7 +255,7 @@ const Winner = () => {
                   </div>{/* /.winner-thumb */}
                   <div className="info">
                     <h4 className="winner-name">Abir James</h4>{/* /.client-name */}
-                    <p className="auction-id">Auction Id: <a href="#">BB28111</a></p>
+                    <p className="auction-id">Auction Id: <a href="#/">BB28111</a></p>
                   </div>{/* /.info */}
                 </div>{/* /.winner-item */}
               </div>{/* /.col-lg-3 */}
@@ -274,7 +274,7 @@ const Winner = () => {
                   </div>{/* /.winner-thumb */}
                   <div className="info">
                     <h4 className="winner-name">Jobs Beker</h4>{/* /.client-name */}
-                    <p className="auction-id">Auction Id: <a href="#">BB28111</a></p>
+                    <p className="auction-id">Auction Id: <a href="#/">BB28111</a></p>
                   </div>{/* /.info */}
                 </div>{/* /.winner-item */}
               </div>{/* /.col-lg-3 */}
@@ -293,7 +293,7 @@ const Winner = () => {
                   </div>{/* /.winner-thumb */}
                   <div className="info">
                     <h4 className="winner-name">Abir James</h4>{/* /.client-name */}
-                    <p className="auction-id">Auction Id: <a href="#">BB28111</a></p>
+                    <p className="auction-id">Auction Id: <a href="#/">BB28111</a></p>
                   </div>{/* /.info */}
                 </div>{/* /.winner-item */}
               </div>{/* /.col-lg-3 */}
@@ -312,7 +312,7 @@ const Winner = () => {
                   </div>{/* /.winner-thumb */}
                   <div className="info">
                     <h4 className="winner-name">Alex Mason</h4>{/* /.client-name */}
-                    <p className="auction-id">Auction Id: <a href="#">BB28111</a></p>
+                    <p className="auction-id">Auction Id: <a href="#/">BB28111</a></p>
                   </div>{/* /.info */}
                 </div>{/* /.winner-item */}
               </div>{/* /.col-lg-3 */}
@@ -331,7 +331,7 @@ const Winner = () => {
                   </div>{/* /.winner-thumb */}
                   <div className="info">
                     <h4 className="winner-name">Sonika Butoni</h4>{/* /.client-name */}
-                    <p className="auction-id">Auction Id: <a href="#">BB28111</a></p>
+                    <p className="auction-id">Auction Id: <a href="#/">BB28111</a></p>
                   </div>{/* /.info */}
                 </div>{/* /.winner-item */}
               </div>{/* /.col-lg-3 */}
@@ -339,11 +339,11 @@ const Winner = () => {
                 {/*~~~~~ Start Paging Navigation ~~~~~*/}
                 <nav className="paging-navigation paging-center pd-t-60">
                   <ul className="nav-links">                                   
-                    <li><a href="#">01</a></li>
-                    <li className="active"><a href="#" className="page-numbers">02</a></li>
-                    <li><a href="#" className="page-numbers">03</a></li>
+                    <li><a href="#/">01</a></li>
+                    <li className="active"><a href="#/" className="page-numbers">02</a></li>
+                    <li><a href="#/" className="page-numbers">03</a></li>
                     <li className="nav-next">
-                      <a href="#"><span className="icon-next1" /></a>
+                      <a href="#/"><span className="icon-next1" /></a>
                     </li>  
                   </ul>
                 </nav>{/*~./ end paging navigation ~*/}

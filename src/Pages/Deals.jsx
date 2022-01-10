@@ -38,7 +38,7 @@ const deals = () => {
                     <div className="auction-id">Auction ID: BB28111</div>
                   </div>{/* /.item-footer */}
                   <div className="item-img">
-                    <a href="#">
+                    <a href="#/">
                       <img src="assets/images/auction/grid/product1.jpg" alt="Thumbnail" />
                       <img className="prod2" src="assets/images/auction/grid/product2.jpg" alt="Thumbnail" />
                     </a>
@@ -54,7 +54,7 @@ const deals = () => {
                       </div>
                     </div>
                     <div className="bid-button">
-                      <a className="btn btn-default" href="#">Bid Now</a>
+                      <a className="btn btn-default" href="#/">Bid Now</a>
                     </div>
                   </div>{/* /.item-footer */}
                 </div>{/* /.auction-item */}
@@ -66,7 +66,7 @@ const deals = () => {
                     <div className="auction-id">Auction ID: BB28111</div>
                   </div>{/* /.item-footer */}
                   <div className="item-img">
-                    <a href="#">
+                    <a href="#/">
                       <img src="assets/images/auction/grid/product4.jpg" alt="Thumbnail" />
                       <img className="prod2" src="assets/images/auction/grid/product3.jpg" alt="Thumbnail" />
                     </a>
@@ -82,7 +82,7 @@ const deals = () => {
                       </div>
                     </div>
                     <div className="bid-button">
-                      <a className="btn btn-default" href="#">Bid Now</a>
+                      <a className="btn btn-default" href="#/">Bid Now</a>
                     </div>
                   </div>{/* /.item-footer */}
                 </div>{/* /.auction-item */}
@@ -94,7 +94,7 @@ const deals = () => {
                     <div className="auction-id">Auction ID: BB28111</div>
                   </div>{/* /.item-footer */}
                   <div className="item-img">
-                    <a href="#">
+                    <a href="#/">
                       <img src="assets/images/auction/grid/product5.jpg" alt="Thumbnail" />
                       <img className="prod2" src="assets/images/auction/grid/product6.jpg" alt="Thumbnail" />
                     </a>
@@ -110,7 +110,7 @@ const deals = () => {
                       </div>
                     </div>
                     <div className="bid-button">
-                      <a className="btn btn-default" href="#">Bid Now</a>
+                      <a className="btn btn-default" href="#/">Bid Now</a>
                     </div>
                   </div>{/* /.item-footer */}
                 </div>{/* /.auction-item */}
@@ -122,7 +122,7 @@ const deals = () => {
                     <div className="auction-id">Auction ID: BB28111</div>
                   </div>{/* /.item-footer */}
                   <div className="item-img">
-                    <a href="#">
+                    <a href="#/">
                       <img src="assets/images/auction/grid/product3.jpg" alt="Thumbnail" />
                       <img className="prod2" src="assets/images/auction/grid/product4.jpg" alt="Thumbnail" />
                     </a>
@@ -138,7 +138,7 @@ const deals = () => {
                       </div>
                     </div>
                     <div className="bid-button">
-                      <a className="btn btn-default" href="#">Bid Now</a>
+                      <a className="btn btn-default" href="#/">Bid Now</a>
                     </div>
                   </div>{/* /.item-footer */}
                 </div>{/* /.auction-item */}
@@ -150,7 +150,7 @@ const deals = () => {
                     <div className="auction-id">Auction ID: BB28111</div>
                   </div>{/* /.item-footer */}
                   <div className="item-img">
-                    <a href="#">
+                    <a href="#/">
                       <img src="assets/images/auction/grid/product7.jpg" alt="Thumbnail" />
                       <img className="prod2" src="assets/images/auction/grid/product8.jpg" alt="Thumbnail" />
                     </a>
@@ -166,7 +166,7 @@ const deals = () => {
                       </div>
                     </div>
                     <div className="bid-button">
-                      <a className="btn btn-default" href="#">Bid Now</a>
+                      <a className="btn btn-default" href="#/">Bid Now</a>
                     </div>
                   </div>{/* /.item-footer */}
                 </div>{/* /.auction-item */}
@@ -178,7 +178,7 @@ const deals = () => {
                     <div className="auction-id">Auction ID: BB28111</div>
                   </div>{/* /.item-footer */}
                   <div className="item-img">
-                    <a href="#">
+                    <a href="#/">
                       <img src="assets/images/auction/grid/product2.jpg" alt="Thumbnail" />
                       <img className="prod2" src="assets/images/auction/grid/product1.jpg" alt="Thumbnail" />
                     </a>
@@ -194,7 +194,7 @@ const deals = () => {
                       </div>
                     </div>
                     <div className="bid-button">
-                      <a className="btn btn-default" href="#">Bid Now</a>
+                      <a className="btn btn-default" href="#/">Bid Now</a>
                     </div>
                   </div>{/* /.item-footer */}
                 </div>{/* /.auction-item */}
@@ -205,11 +205,11 @@ const deals = () => {
                 {/*~~~~~ Start Paging Navigation ~~~~~*/}
                 <nav className="paging-navigation paging-center pd-t-60">
                   <ul className="nav-links">                                   
-                    <li><a href="#">01</a></li>
-                    <li className="active"><a href="#" className="page-numbers">02</a></li>
-                    <li><a href="#" className="page-numbers">03</a></li>
+                    <li><a href="#/">01</a></li>
+                    <li className="active"><a href="#/" className="page-numbers">02</a></li>
+                    <li><a href="#/" className="page-numbers">03</a></li>
                     <li className="nav-next">
-                      <a href="#"><span className="icon-next1" /></a>
+                      <a href="#/"><span className="icon-next1" /></a>
                     </li>  
                   </ul>
                 </nav>{/*~./ end paging navigation ~*/}

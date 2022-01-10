@@ -88,7 +88,7 @@ const About = () => {
               </div>{/* /.section-title */}
               <div className="fanfact-content pd-r-70 ml-t-10">
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate magnam excepturi maxime a est itaque harum impedit amet aspernatur expedita ipsam sint ea vel illum facere, iure consectetur perferendis aut explicabo quaerat ducimus aliquam rem.</p>
-                <a className="btn btn-default" href="#">Read more</a>
+                <a className="btn btn-default" href="#/">Read more</a>
               </div>
             </div>
             <div className="col-lg-6">
@@ -160,7 +160,7 @@ const About = () => {
                   </div>{/* /.winner-thumb */}
                   <div className="info">
                     <h4 className="winner-name">Martin Hook</h4>{/* /.client-name */}
-                    <p className="auction-id">Auction Id: <a href="#">BB28111</a></p>
+                    <p className="auction-id">Auction Id: <a href="#/">BB28111</a></p>
                   </div>{/* /.info */}
                 </div>{/* /.winner-item */}
                 <div className="winner-item">
@@ -177,7 +177,7 @@ const About = () => {
                   </div>{/* /.winner-thumb */}
                   <div className="info">
                     <h4 className="winner-name">Jobs Beker</h4>{/* /.client-name */}
-                    <p className="auction-id">Auction Id: <a href="#">BB28111</a></p>
+                    <p className="auction-id">Auction Id: <a href="#/">BB28111</a></p>
                   </div>{/* /.info */}
                 </div>{/* /.winner-item */}
                 <div className="winner-item">
@@ -194,7 +194,7 @@ const About = () => {
                   </div>{/* /.winner-thumb */}
                   <div className="info">
                     <h4 className="winner-name">Batin Tomas</h4>{/* /.client-name */}
-                    <p className="auction-id">Auction Id: <a href="#">BB28111</a></p>
+                    <p className="auction-id">Auction Id: <a href="#/">BB28111</a></p>
                   </div>{/* /.info */}
                 </div>{/* /.winner-item */}
                 <div className="winner-item">
@@ -211,7 +211,7 @@ const About = () => {
                   </div>{/* /.winner-thumb */}
                   <div className="info">
                     <h4 className="winner-name">Jhon Martin</h4>{/* /.client-name */}
-                    <p className="auction-id">Auction Id: <a href="#">BB28111</a></p>
+                    <p className="auction-id">Auction Id: <a href="#/">BB28111</a></p>
                   </div>{/* /.info */}
                 </div>{/* /.winner-item */}
                 <div className="winner-item">
@@ -228,7 +228,7 @@ const About = () => {
                   </div>{/* /.winner-thumb */}
                   <div className="info">
                     <h4 className="winner-name">Alex Mason</h4>{/* /.client-name */}
-                    <p className="auction-id">Auction Id: <a href="#">BB28111</a></p>
+                    <p className="auction-id">Auction Id: <a href="#/">BB28111</a></p>
                   </div>{/* /.info */}
                 </div>{/* /.winner-item */}
               </div>
@@ -275,7 +275,7 @@ const About = () => {
                       <p>Augue posuere, lacus molestie justo, fermentum eget nisl quam pedfringilla ante sapien id est adipiscing. Mauris tristique magna sit. </p>
                     </div>{/* /.details */}
                     <div className="client-info">
-                      <h4 className="client-name"><a href="#">David James</a></h4>{/* /.client-name */}
+                      <h4 className="client-name"><a href="#/">David James</a></h4>{/* /.client-name */}
                       <p className="client-designation">CEO Thesoftking</p>
                     </div>{/* /.client-info */}
                   </div>{/* /.testimonial-item */}  
@@ -292,7 +292,7 @@ const About = () => {
                       <p>Augue posuere, lacus molestie justo, fermentum eget nisl quam pedfringilla ante sapien id est adipiscing. Mauris tristique magna sit. </p>
                     </div>{/* /.details */}
                     <div className="client-info">
-                      <h4 className="client-name"><a href="#">David James</a></h4>{/* /.client-name */}
+                      <h4 className="client-name"><a href="#/">David James</a></h4>{/* /.client-name */}
                       <p className="client-designation">CEO Thesoftking</p>
                     </div>{/* /.client-info */}
                   </div>{/* /.testimonial-item */}  
@@ -309,7 +309,7 @@ const About = () => {
                       <p>Augue posuere, lacus molestie justo, fermentum eget nisl quam pedfringilla ante sapien id est adipiscing. Mauris tristique magna sit. </p>
                     </div>{/* /.details */}
                     <div className="client-info">
-                      <h4 className="client-name"><a href="#">David James</a></h4>{/* /.client-name */}
+                      <h4 className="client-name"><a href="#/">David James</a></h4>{/* /.client-name */}
                       <p className="client-designation">CEO Thesoftking</p>
                     </div>{/* /.client-info */}
                   </div>{/* /.testimonial-item */}  

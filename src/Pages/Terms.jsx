@@ -66,7 +66,7 @@ const Terms = () => {
                   <div className="single-info-block">
                     <h2 className="heading">Taxes</h2>
                     <p>Ornare nec urna scelerisque. Est sapien risus lorem, ac suscipit quis est eu ac. Massa vel interdum vitae elementum est, ultrices ac eu felis adipiscing turpis, etiam quis ligula urna ultrices, ut nec ornare. Orci natoque nonummy felis in ipsum est. Consequat magna molestie turpis est, nec interdum a amet. Aliquam imperdiet tellus erat lacinia faucibus adipiscing. Ultricies duis, varius vulputate ligula non volutpat sodales, est hendrerit suscipit quisque volutpat. Nisl nullam morbi dolor magna, in nec, bibendum nibh eros ut magna dui. </p>
-                    <p>Sapien sollicitudin adipiscing fermentum nibh, malesuada quis quis ut dictum, ac mattis justo at suscipit mi, in in turpis aliquet feugiat leo sit, ligula proin nonummy consectetuer lacus aenean leo. Vestibulum vivamus massa condimentum suspendisse metus ante, volutpat convallis dignissim, nec mus gravida nec in <a href="#">Click Here</a></p>
+                    <p>Sapien sollicitudin adipiscing fermentum nibh, malesuada quis quis ut dictum, ac mattis justo at suscipit mi, in in turpis aliquet feugiat leo sit, ligula proin nonummy consectetuer lacus aenean leo. Vestibulum vivamus massa condimentum suspendisse metus ante, volutpat convallis dignissim, nec mus gravida nec in <a href="#/">Click Here</a></p>
                   </div>{/* /.single-info-block */}
                   <div className="single-info-block">
                     <h2 className="heading">Liability and indemnity</h2>
@@ -81,8 +81,8 @@ const Terms = () => {
                   </div>{/* /.single-info-block */}
                   <div className="single-info-block">
                     <h2 className="heading">Blocking a member</h2>
-                    <p>posuere dapibus amet. <a href="#">Nulla nam</a> morbi ut scelerisque parturient, aliquet nunc, quis erat nascetur metus. Ut a sit, ac lorem semper elementum ultricies eget duis, vehicula cursus mauris et et amet pulvinar. Odio nec tellus taciti amet, massa maecenas, egestas enim elit, ligula dolor erat, lorem tincidunt. Eros varius cum, placerat iaculis nisl, ac suscipit, ornare consectetuer suspendisse ultrices hendrerit nullam. Urna volutpat ut urna, ligula a wisi sapien nunc ac penatibus, nibh et nostra mollis ac, imperdiet amet dictumst ullamcorper adipiscing ac. </p>
-                    <p>Sem id eget laoreet eros class, morbi conubia neque <a href="#">euismod placerat</a> sed eros, netus vitae et urna, tortor a luctus felis ut, velit vestibulum. Nonummy a lacinia, at sed metus et elit dui urna, proin elit faucibus cras in mollis, in feugiat ante  a duis sed <a href="#">justo curabitur.</a></p>
+                    <p>posuere dapibus amet. <a href="#/">Nulla nam</a> morbi ut scelerisque parturient, aliquet nunc, quis erat nascetur metus. Ut a sit, ac lorem semper elementum ultricies eget duis, vehicula cursus mauris et et amet pulvinar. Odio nec tellus taciti amet, massa maecenas, egestas enim elit, ligula dolor erat, lorem tincidunt. Eros varius cum, placerat iaculis nisl, ac suscipit, ornare consectetuer suspendisse ultrices hendrerit nullam. Urna volutpat ut urna, ligula a wisi sapien nunc ac penatibus, nibh et nostra mollis ac, imperdiet amet dictumst ullamcorper adipiscing ac. </p>
+                    <p>Sem id eget laoreet eros class, morbi conubia neque <a href="#/">euismod placerat</a> sed eros, netus vitae et urna, tortor a luctus felis ut, velit vestibulum. Nonummy a lacinia, at sed metus et elit dui urna, proin elit faucibus cras in mollis, in feugiat ante  a duis sed <a href="#/">justo curabitur.</a></p>
                     <ol>
                       <li>Etiam posuere, potenti urna porttito</li>
                       <li>Ornare nec urna scelerisque</li>

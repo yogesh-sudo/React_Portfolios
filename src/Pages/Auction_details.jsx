@@ -67,7 +67,7 @@ const Auction_details = () => {
                       <p>Waiting For Bid</p>
                     </div>
                     <div className="bid-button">
-                      <a className="btn btn-default" href="#">Bid Now</a>
+                      <a className="btn btn-default" href="#/">Bid Now</a>
                     </div>
                   </div>{/* /.item-bid-price-time */}
                   <div className="item-info-area">

@@ -81,7 +81,7 @@ const Home = () => {
           {/* START */}
           <div className="row">
             <div className="col-lg-3 col-md-6 col-sm-6">
-              <a href="#" className="single-auction-cat">
+              <a href="#/" className="single-auction-cat">
                 <div className="cat-icon">
                   <span className="icon-drawing-12"></span>
                 </div>
@@ -91,7 +91,7 @@ const Home = () => {
             </div>
 
             <div className="col-lg-3 col-md-6 col-sm-6">
-              <a href="#" className="single-auction-cat cat-red">
+              <a href="#/" className="single-auction-cat cat-red">
                 <div className="cat-icon">
                   <span className="icon-dress"></span>
                 </div>
@@ -101,7 +101,7 @@ const Home = () => {
             </div>
 
             <div className="col-lg-3 col-md-6 col-sm-6">
-              <a href="#" className="single-auction-cat cat-green">
+              <a href="#/" className="single-auction-cat cat-green">
                 <div className="cat-icon">
                   <span className="icon-food3"></span>
                 </div>
@@ -111,7 +111,7 @@ const Home = () => {
             </div>
 
             <div className="col-lg-3 col-md-6 col-sm-6">
-              <a href="#" className="single-auction-cat cat-turquoise">
+              <a href="#/" className="single-auction-cat cat-turquoise">
                 <div className="cat-icon">
                   <span className="icon-desk2"></span>
                 </div>
@@ -121,7 +121,7 @@ const Home = () => {
             </div>
 
             <div className="col-lg-3 col-md-6 col-sm-6">
-              <a href="#" className="single-auction-cat cat-yellow">
+              <a href="#/" className="single-auction-cat cat-yellow">
                 <div className="cat-icon">
                   <span className="icon-flask"></span>
                 </div>
@@ -131,7 +131,7 @@ const Home = () => {
             </div>
 
             <div className="col-lg-3 col-md-6 col-sm-6">
-              <a href="#" className="single-auction-cat cat-violet">
+              <a href="#/" className="single-auction-cat cat-violet">
                 <div className="cat-icon">
                   <span className="icon-truck2"></span>
                 </div>
@@ -141,7 +141,7 @@ const Home = () => {
             </div>
 
             <div className="col-lg-3 col-md-6 col-sm-6">
-              <a href="#" className="single-auction-cat cat-matterhorn">
+              <a href="#/" className="single-auction-cat cat-matterhorn">
                 <div className="cat-icon">
                   <span className="icon-school"></span>
                 </div>
@@ -151,7 +151,7 @@ const Home = () => {
             </div>
 
             <div className="col-lg-3 col-md-6 col-sm-6">
-              <a href="#" className="single-auction-cat cat-orange">
+              <a href="#/" className="single-auction-cat cat-orange">
                 <div className="cat-icon">
                   <span className="icon-house"></span>
                 </div>
@@ -196,7 +196,7 @@ const Home = () => {
                 </div>
           
                 <div className="item-img">
-                  <a href="#">
+                  <a href="#/">
                     <img
                       src="assets/images/auction/grid/product1.jpg"
                       alt="Thumbnail"
@@ -222,7 +222,7 @@ const Home = () => {
                     </div>
                   </div>
                   <div className="bid-button">
-                    <a className="btn btn-default" href="#">Bid Now</a>
+                    <a className="btn btn-default" href="#/">Bid Now</a>
                   </div>
                 </div>
           
@@ -240,7 +240,7 @@ const Home = () => {
                 </div>
           
                 <div className="item-img">
-                  <a href="#">
+                  <a href="#/">
                     <img
                       src="assets/images/auction/grid/product4.jpg"
                       alt="Thumbnail"
@@ -266,7 +266,7 @@ const Home = () => {
                     </div>
                   </div>
                   <div className="bid-button">
-                    <a className="btn btn-default" href="#">Bid Now</a>
+                    <a className="btn btn-default" href="#/">Bid Now</a>
                   </div>
                 </div>
           
@@ -284,7 +284,7 @@ const Home = () => {
                 </div>
                 
                 <div className="item-img">
-                  <a href="#">
+                  <a href="#/">
                     <img
                       src="assets/images/auction/grid/product5.jpg"
                       alt="Thumbnail"
@@ -310,7 +310,7 @@ const Home = () => {
                     </div>
                   </div>
                   <div className="bid-button">
-                    <a className="btn btn-default" href="#">Bid Now</a>
+                    <a className="btn btn-default" href="#/">Bid Now</a>
                   </div>
                 </div>
                 
@@ -328,7 +328,7 @@ const Home = () => {
                 </div>
                 
                 <div className="item-img">
-                  <a href="#">
+                  <a href="#/">
                     <img
                       src="assets/images/auction/grid/product3.jpg"
                       alt="Thumbnail"
@@ -354,7 +354,7 @@ const Home = () => {
                     </div>
                   </div>
                   <div className="bid-button">
-                    <a className="btn btn-default" href="#">Bid Now</a>
+                    <a className="btn btn-default" href="#/">Bid Now</a>
                   </div>
                 </div>
                 
@@ -372,7 +372,7 @@ const Home = () => {
                 </div>
                 
                 <div className="item-img">
-                  <a href="#">
+                  <a href="#/">
                     <img
                       src="assets/images/auction/grid/product7.jpg"
                       alt="Thumbnail"
@@ -398,7 +398,7 @@ const Home = () => {
                     </div>
                   </div>
                   <div className="bid-button">
-                    <a className="btn btn-default" href="#">Bid Now</a>
+                    <a className="btn btn-default" href="#/">Bid Now</a>
                   </div>
                 </div>
                 
@@ -416,7 +416,7 @@ const Home = () => {
                 </div>
                 
                 <div className="item-img">
-                  <a href="#">
+                  <a href="#/">
                     <img
                       src="assets/images/auction/grid/product2.jpg"
                       alt="Thumbnail"
@@ -442,7 +442,7 @@ const Home = () => {
                     </div>
                   </div>
                   <div className="bid-button">
-                    <a className="btn btn-default" href="#">Bid Now</a>
+                    <a className="btn btn-default" href="#/">Bid Now</a>
                   </div>
                 </div>
                 
@@ -487,7 +487,7 @@ const Home = () => {
                 >
                   <div className="auction-item style-two">
                     <div className="item-img">
-                      <a href="#">
+                      <a href="#/">
                         <img
                           src="assets/images/auction/grid/product1.jpg"
                           alt="Thumbnail"
@@ -506,7 +506,7 @@ const Home = () => {
                     
                     <div className="item-header">
                       <h3 className="heading">
-                        <a href="#">JBL GO Digital Drone</a>
+                        <a href="#/">JBL GO Digital Drone</a>
                       </h3>
                       <div className="auction-id">Auction ID: BB28111</div>
                     </div>
@@ -515,7 +515,7 @@ const Home = () => {
               
                   <div className="auction-item style-two">
                     <div className="item-img">
-                      <a href="#">
+                      <a href="#/">
                         <img
                           src="assets/images/auction/grid/product4.jpg"
                           alt="Thumbnail"
@@ -534,7 +534,7 @@ const Home = () => {
                     
                     <div className="item-header">
                       <h3 className="heading">
-                        <a href="#">BBB Bluetooth Headphone</a>
+                        <a href="#/">BBB Bluetooth Headphone</a>
                       </h3>
                       <div className="auction-id">Auction ID: BB28111</div>
                     </div>
@@ -543,7 +543,7 @@ const Home = () => {
               
                   <div className="auction-item style-two">
                     <div className="item-img">
-                      <a href="#">
+                      <a href="#/">
                         <img
                           src="assets/images/auction/grid/product5.jpg"
                           alt="Thumbnail"
@@ -562,7 +562,7 @@ const Home = () => {
                     
                     <div className="item-header">
                       <h3 className="heading">
-                        <a href="#">Android Mobile Phone</a>
+                        <a href="#/">Android Mobile Phone</a>
                       </h3>
                       <div className="auction-id">Auction ID: BB28111</div>
                     </div>
@@ -571,7 +571,7 @@ const Home = () => {
               
                   <div className="auction-item style-two">
                     <div className="item-img">
-                      <a href="#">
+                      <a href="#/">
                         <img
                           src="assets/images/auction/grid/product3.jpg"
                           alt="Thumbnail"
@@ -589,7 +589,7 @@ const Home = () => {
                     </div>
                     
                     <div className="item-header">
-                      <h3 className="heading"><a href="#">Digital Headphone</a></h3>
+                      <h3 className="heading"><a href="#/">Digital Headphone</a></h3>
                       <div className="auction-id">Auction ID: BB28111</div>
                     </div>
                     
@@ -597,7 +597,7 @@ const Home = () => {
               
                   <div className="auction-item style-two">
                     <div className="item-img">
-                      <a href="#">
+                      <a href="#/">
                         <img
                           src="assets/images/auction/grid/product7.jpg"
                           alt="Thumbnail"
@@ -615,7 +615,7 @@ const Home = () => {
                     </div>
                     
                     <div className="item-header">
-                      <h3 className="heading"><a href="#">Realistic Watche</a></h3>
+                      <h3 className="heading"><a href="#/">Realistic Watche</a></h3>
                       <div className="auction-id">Auction ID: BB28111</div>
                     </div>
                     
@@ -623,7 +623,7 @@ const Home = () => {
               
                   <div className="auction-item style-two">
                     <div className="item-img">
-                      <a href="#">
+                      <a href="#/">
                         <img
                           src="assets/images/auction/grid/product2.jpg"
                           alt="Thumbnail"
@@ -642,7 +642,7 @@ const Home = () => {
                     
                     <div className="item-header">
                       <h3 className="heading">
-                        <a href="#">JBL GO White Drone</a>
+                        <a href="#/">JBL GO White Drone</a>
                       </h3>
                       <div className="auction-id">Auction ID: BB28111</div>
                     </div>
@@ -683,12 +683,12 @@ const Home = () => {
             <div className="col-lg-4 col-md-6">
               <div className="auction-item style-three">
                 <div className="item-header">
-                  <h3 className="heading"><a href="#">Digital Headphone</a></h3>
+                  <h3 className="heading"><a href="#/">Digital Headphone</a></h3>
                   <div className="auction-id">Auction ID: BB28111</div>
                 </div>
                 
                 <div className="item-img">
-                  <a href="#">
+                  <a href="#/">
                     <img
                       src="assets/images/auction/grid/product3.jpg"
                       alt="Thumbnail"
@@ -716,12 +716,12 @@ const Home = () => {
             <div className="col-lg-4 col-md-6">
               <div className="auction-item style-three">
                 <div className="item-header">
-                  <h3 className="heading"><a href="#">Realistic Watche</a></h3>
+                  <h3 className="heading"><a href="#/">Realistic Watche</a></h3>
                   <div className="auction-id">Auction ID: BB28111</div>
                 </div>
                 
                 <div className="item-img">
-                  <a href="#">
+                  <a href="#/">
                     <img
                       src="assets/images/auction/grid/product7.jpg"
                       alt="Thumbnail"
@@ -749,12 +749,12 @@ const Home = () => {
             <div className="col-lg-4 col-md-6">
               <div className="auction-item style-three">
                 <div className="item-header">
-                  <h3 className="heading"><a href="#">JBL GO White Drone</a></h3>
+                  <h3 className="heading"><a href="#/">JBL GO White Drone</a></h3>
                   <div className="auction-id">Auction ID: BB28111</div>
                 </div>
                 
                 <div className="item-img">
-                  <a href="#">
+                  <a href="#/">
                     <img
                       src="assets/images/auction/grid/product2.jpg"
                       alt="Thumbnail"
@@ -806,7 +806,7 @@ const Home = () => {
                   consectetur perferendis aut explicabo quaerat ducimus aliquam
                   rem.
                 </p>
-                <a className="btn btn-default" href="#">Read more</a>
+                <a className="btn btn-default" href="#/">Read more</a>
               </div>
             </div>
             <div className="col-lg-6">
@@ -918,7 +918,7 @@ const Home = () => {
                     <h4 className="winner-name">Martin Hook</h4>
                 
                     <p className="auction-id">
-                      Auction Id: <a href="#">BB28111</a>
+                      Auction Id: <a href="#/">BB28111</a>
                     </p>
                   </div>
                 
@@ -944,7 +944,7 @@ const Home = () => {
                     <h4 className="winner-name">Jobs Beker</h4>
                 
                     <p className="auction-id">
-                      Auction Id: <a href="#">BB28111</a>
+                      Auction Id: <a href="#/">BB28111</a>
                     </p>
                   </div>
                 
@@ -970,7 +970,7 @@ const Home = () => {
                     <h4 className="winner-name">Batin Tomas</h4>
                 
                     <p className="auction-id">
-                      Auction Id: <a href="#">BB28111</a>
+                      Auction Id: <a href="#/">BB28111</a>
                     </p>
                   </div>
                 
@@ -996,7 +996,7 @@ const Home = () => {
                     <h4 className="winner-name">Jhon Martin</h4>
                 
                     <p className="auction-id">
-                      Auction Id: <a href="#">BB28111</a>
+                      Auction Id: <a href="#/">BB28111</a>
                     </p>
                   </div>
                 
@@ -1022,7 +1022,7 @@ const Home = () => {
                     <h4 className="winner-name">Alex Mason</h4>
         
                     <p className="auction-id">
-                      Auction Id: <a href="#">BB28111</a>
+                      Auction Id: <a href="#/">BB28111</a>
                     </p>
                   </div>
         
@@ -1175,7 +1175,7 @@ const Home = () => {
                     </div>
                   
                     <div className="client-info">
-                      <h4 className="client-name"><a href="#">David James</a></h4>
+                      <h4 className="client-name"><a href="#/">David James</a></h4>
                   
                       <p className="client-designation">CEO Thesoftking</p>
                     </div>
@@ -1208,7 +1208,7 @@ const Home = () => {
                     </div>
                   
                     <div className="client-info">
-                      <h4 className="client-name"><a href="#">David James</a></h4>
+                      <h4 className="client-name"><a href="#/">David James</a></h4>
                   
                       <p className="client-designation">CEO Thesoftking</p>
                     </div>
@@ -1241,7 +1241,7 @@ const Home = () => {
                     </div>
         
                     <div className="client-info">
-                      <h4 className="client-name"><a href="#">David James</a></h4>
+                      <h4 className="client-name"><a href="#/">David James</a></h4>
         
                       <p className="client-designation">CEO Thesoftking</p>
                     </div>

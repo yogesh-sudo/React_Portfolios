@@ -27,7 +27,7 @@ const Navbar = () => {
                           <Link to="/about">About</Link>
                         </li>
                         <li className="dropdown-trigger">
-                          <Link to="#">Auction</Link>
+                          <Link to="#/">Auction</Link>
                           <ul className="dropdown-content">
                             <li>
                               <Link to="/deals">Deals Of The Day</Link>
@@ -44,7 +44,7 @@ const Navbar = () => {
                           </ul>
                         </li>
                         <li className="dropdown-trigger">
-                          <Link to="#">Pages</Link>
+                          <Link to="#/">Pages</Link>
                           <ul className="dropdown-content">
                             <li>
                               <Link to="/faqs">Faqs</Link>
@@ -67,7 +67,7 @@ const Navbar = () => {
                           </ul>
                         </li>
                         <li className="dropdown-trigger">
-                          <Link to="#">Blog</Link>
+                          <Link to="#/">Blog</Link>
                           <ul className="dropdown-content">
                             <li>
                               <Link to="/blog">Blog Classic</Link>
@@ -88,7 +88,7 @@ const Navbar = () => {
                           <i className="fas fa-search"></i>
                         </div>
                         <div className="search-form">
-                          <form action="#">
+                          <form action="#/">
                             <input type="search" placeholder="Search" />
                             <button type="submit">
                               <i className="fas fa-search"></i>{" "}

@@ -84,7 +84,7 @@ const Signup = () => {
                         </div>
                       </div>
                       <div className="login-form-remember"> 
-                        <label><input id="termssignin" defaultValue type="checkbox" /><span>I agree to the <a href="#">Terms, Privacy policy and fees</a></span></label>
+                        <label><input id="termssignin" defaultValue type="checkbox" /><span>I agree to the <a href="#/">Terms, Privacy policy and fees</a></span></label>
                       </div>
                       <div className="login-form-remember"> 
                         <label><input id="remembermesignin" defaultValue type="checkbox" /><span>Yes, I want to receive Email </span></label>
@@ -102,8 +102,8 @@ const Signup = () => {
                       <div className="reg-others-media">
                         <div className="text">Or, User social media to sign in</div>
                         <div className="social-media-icons">
-                          <a href="#"><i className="fab fa-facebook-f" /></a>
-                          <a href="#"><i className="fab fa-twitter" /></a><a href="#"><i className="fab fa-linkedin-in" /></a>
+                          <a href="#/"><i className="fab fa-facebook-f" /></a>
+                          <a href="#/"><i className="fab fa-twitter" /></a><a href="#/"><i className="fab fa-linkedin-in" /></a>
                         </div>
                       </div>
                     </form>  

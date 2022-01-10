@@ -57,7 +57,7 @@ const Signin = () => {
                           <label><input id="remembermesignin" defaultValue type="checkbox" /><span>Keep me looged in</span></label>
                         </div>
                         <div className="forget-pass">
-                          <a className="btn-password" href="#">Forget Password</a>
+                          <a className="btn-password" href="#/">Forget Password</a>
                         </div>
                       </div>{/*/.remember-and-password*/}
                       <div className="form-btn-group">
@@ -67,14 +67,14 @@ const Signin = () => {
                           </button>
                         </div>
                         <div className="login-form-register-now">
-                          You have no account ? <a className="btn-register-now" href="#">Sign Up</a>
+                          You have no account ? <a className="btn-register-now" href="#/">Sign Up</a>
                         </div>
                       </div>
                       <div className="reg-others-media">
                         <div className="text">Or, User social media to sign in</div>
                         <div className="social-media-icons">
-                          <a href="#"><i className="fab fa-facebook-f" /></a>
-                          <a href="#"><i className="fab fa-twitter" /></a><a href="#"><i className="fab fa-linkedin-in" /></a>
+                          <a href="#/"><i className="fab fa-facebook-f" /></a>
+                          <a href="#/"><i className="fab fa-twitter" /></a><a href="#/"><i className="fab fa-linkedin-in" /></a>
                         </div>
                       </div>
                     </form>  

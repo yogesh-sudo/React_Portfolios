@@ -43,7 +43,7 @@ const Blog_single = () => {
                           <img src="assets/images/author/4.png" alt="Thumb" />
                         </div>
                         <div className="info">
-                          <div className="author-name"><a href="#">Hera Bro
+                          <div className="author-name"><a href="#/">Hera Bro
                             </a></div>
                           <div className="entry-time">25 dec . 9 m read</div>{/*./ entry-time */}
                         </div>
@@ -52,9 +52,9 @@ const Blog_single = () => {
                         <div className="share-btn">
                           <span>share</span>
                           <div className="social-media">
-                            <a href="#"><i className="fab fa-facebook-f" /></a>
-                            <a href="#"><i className="fab fa-twitter" /></a>
-                            <a href="#"><i className="fab fa-google-plus-g" /></a>
+                            <a href="#/"><i className="fab fa-facebook-f" /></a>
+                            <a href="#/"><i className="fab fa-twitter" /></a>
+                            <a href="#/"><i className="fab fa-google-plus-g" /></a>
                           </div>
                         </div>{/*/.share-btn*/}
                       </div>{/*/.social-share-area*/}
@@ -69,8 +69,8 @@ const Blog_single = () => {
                         <blockquote>
                           <p>One touch of a red-hot stove is usually all we need to avoid that kind of discomfort in the future. The same is true as we experience the emotional sensation of stress from our first instances of social rejection ridicule. We quickly learn to fear and thus automatically.</p>
                         </blockquote>
-                        <p>Magna venenatis, sed sed, amet lectus, bibendum mauris in neque enim ultrices senectus. Nisl neque. Velit eu pharetra etiam dictum tempor, sed consequat molestie maecenas et, et fermentum viverra nunc amet. Rerum elementum odio aliquam lectus sapien commodo mi mattis, ut sed commodo proin. Torquent sodales in elementum libero, elit etiam, eget fringilla nec hymenaeos ac eros, a tempor erat in penatibus <a href="#">Click Here</a></p>
-                        <p>Dolor lorem turpis orci, nunc suscipit tortor, habitasse et in sed sed amet duis, consectetuer eleifend nec in congue vivamus in, sodales imperdiet in commodo ipsum eu. Erat magna cursus pellentesque wisi, placerat lectus sollicitudin mattis wisi, nonummy suscipit, dolor dolor sem urna tellus sagittis fringilla, duis ut justo tellus semper malesuada eros. Dolor lorem turpis orci, nunc suscipit tortor, habitasse et in sed sed amet duis, consectetuer eleifend nec in congue vivamus in, <a href="#">sodales imperdiet</a> in commodo ipsum eu. Erat magna cursus pellentesque wisi, placerat lectus sollicitudin mattis wisi, nonummy suscipit, dolor dolor sem urna tellus sagittis fringilla, duis ut justo tellus semper malesuada eros. <a href="#">Vestibulum iaculis</a> mauris integer euismod erat. </p>
+                        <p>Magna venenatis, sed sed, amet lectus, bibendum mauris in neque enim ultrices senectus. Nisl neque. Velit eu pharetra etiam dictum tempor, sed consequat molestie maecenas et, et fermentum viverra nunc amet. Rerum elementum odio aliquam lectus sapien commodo mi mattis, ut sed commodo proin. Torquent sodales in elementum libero, elit etiam, eget fringilla nec hymenaeos ac eros, a tempor erat in penatibus <a href="#/">Click Here</a></p>
+                        <p>Dolor lorem turpis orci, nunc suscipit tortor, habitasse et in sed sed amet duis, consectetuer eleifend nec in congue vivamus in, sodales imperdiet in commodo ipsum eu. Erat magna cursus pellentesque wisi, placerat lectus sollicitudin mattis wisi, nonummy suscipit, dolor dolor sem urna tellus sagittis fringilla, duis ut justo tellus semper malesuada eros. Dolor lorem turpis orci, nunc suscipit tortor, habitasse et in sed sed amet duis, consectetuer eleifend nec in congue vivamus in, <a href="#/">sodales imperdiet</a> in commodo ipsum eu. Erat magna cursus pellentesque wisi, placerat lectus sollicitudin mattis wisi, nonummy suscipit, dolor dolor sem urna tellus sagittis fringilla, duis ut justo tellus semper malesuada eros. <a href="#/">Vestibulum iaculis</a> mauris integer euismod erat. </p>
                         <div className="row image-group">
                           <div className="col-lg-5 col-md-5">
                             <figure className="thumb">
@@ -91,10 +91,10 @@ const Blog_single = () => {
                       <div className="entry-tag">
                         <strong><i className="fas fa-tag" /> </strong>
                         <div className="tags">
-                          <a href="#" rel="tag">Bid</a>
-                          <a href="#" rel="tag">Auction</a>
-                          <a href="#" rel="tag">Win</a>
-                          <a href="#" rel="tag">product</a>
+                          <a href="#/" rel="tag">Bid</a>
+                          <a href="#/" rel="tag">Auction</a>
+                          <a href="#/" rel="tag">Win</a>
+                          <a href="#/" rel="tag">product</a>
                         </div>
                       </div>{/*/.entry-tag*/}
                     </div>{/*/.entry-footer*/}
@@ -125,7 +125,7 @@ const Blog_single = () => {
                                   <div className="comment-content">
                                     <p>magnis nisl lectus velit parturient vitae, suspendisse fusce in variultusetvitae aenean. Hac metus dui facilisis.</p>
                                   </div>{/*/.comment-content*/}
-                                  <a href="#" className="comment-reply-link">Reply</a>
+                                  <a href="#/" className="comment-reply-link">Reply</a>
                                 </div>{/* /.comment-details*/}
                               </div>{/*/.comment-body*/}
                               <ol className="children">
@@ -145,7 +145,7 @@ const Blog_single = () => {
                                       <div className="comment-content">
                                         <p>Volutpat ut, est sed et tincidunt neque, ipsum consectetulandieros. Vestibulum diam nec. Ridiculus justo volutpat dictum eget odio in. Ridiculus gravida arcu </p>
                                       </div>{/*/.comment-content*/}
-                                      <a href="#" className="comment-reply-link">Reply </a>
+                                      <a href="#/" className="comment-reply-link">Reply </a>
                                     </div>{/* /.comment-details*/}
                                   </div>{/*/.comment-body*/}
                                 </li>{/*/.comment*/}
@@ -167,7 +167,7 @@ const Blog_single = () => {
                                   <div className="comment-content">
                                     <p>Neque tellus lorem tortor egestas ipsum a, sodales condimen dbunonummy nec etiam magna, dui lacinia ligula pulvinar </p>
                                   </div>{/*/.comment-content*/}
-                                  <a href="#" className="comment-reply-link">Reply </a>
+                                  <a href="#/" className="comment-reply-link">Reply </a>
                                 </div>{/* /.comment-details*/}
                               </div>{/*/.comment-body*/}
                             </li>{/*/.comment-body*/}
@@ -177,7 +177,7 @@ const Blog_single = () => {
                     </div>{/* /.comments-main-content */}
                   </div>{/* /.comments-area */}
                   <div className="comment-respond">
-                    <form action="#" className="comment-form">
+                    <form action="#/" className="comment-form">
                       <h3 className="comment-reply-title">Leave A Reply</h3>
                       <div className="row">
                         <div className="col-lg-6 col-md-6">

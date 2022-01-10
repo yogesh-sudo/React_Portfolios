@@ -44,11 +44,11 @@ const Faqs = () => {
                   <div className="info">
                     <h4 className="sub-title">Getting Started</h4>
                     <ul>
-                      <li><a href="#">Get start</a></li>
-                      <li><a href="#">Eempor ante convallis</a></li>
-                      <li><a href="#">Uspendisse sapien laoreet</a></li>
+                      <li><a href="#/">Get start</a></li>
+                      <li><a href="#/">Eempor ante convallis</a></li>
+                      <li><a href="#/">Uspendisse sapien laoreet</a></li>
                     </ul>
-                    <a className="btn btn-default" href="#">See All</a>
+                    <a className="btn btn-default" href="#/">See All</a>
                   </div>{/* /.info */}
                 </div>
               </div>{/* /.col-lg-4 */}
@@ -65,11 +65,11 @@ const Faqs = () => {
                   <div className="info">
                     <h4 className="sub-title">Getting Started</h4>
                     <ul>
-                      <li><a href="#">Get start</a></li>
-                      <li><a href="#">Eempor ante convallis</a></li>
-                      <li><a href="#">Uspendisse sapien laoreet</a></li>
+                      <li><a href="#/">Get start</a></li>
+                      <li><a href="#/">Eempor ante convallis</a></li>
+                      <li><a href="#/">Uspendisse sapien laoreet</a></li>
                     </ul>
-                    <a className="btn btn-default" href="#">See All</a>
+                    <a className="btn btn-default" href="#/">See All</a>
                   </div>{/* /.info */}
                 </div>
               </div>{/* /.col-lg-4 */}
@@ -86,11 +86,11 @@ const Faqs = () => {
                   <div className="info">
                     <h4 className="sub-title">Getting Started</h4>
                     <ul>
-                      <li><a href="#">Get start</a></li>
-                      <li><a href="#">Eempor ante convallis</a></li>
-                      <li><a href="#">Uspendisse sapien laoreet</a></li>
+                      <li><a href="#/">Get start</a></li>
+                      <li><a href="#/">Eempor ante convallis</a></li>
+                      <li><a href="#/">Uspendisse sapien laoreet</a></li>
                     </ul>
-                    <a className="btn btn-default" href="#">See All</a>
+                    <a className="btn btn-default" href="#/">See All</a>
                   </div>{/* /.info */}
                 </div>
               </div>{/* /.col-lg-4 */}
@@ -166,7 +166,7 @@ const Faqs = () => {
                   <div className="section-title">
                     <h2 className="title-main" data-animate="hg-fadeInUp">Ask Your <span>Question</span></h2>{/* /.title-main */}
                   </div>{/* /.section-title */}
-                  <form className="faqs-form" action="#">
+                  <form className="faqs-form" action="#/">
                     <div className="row">
                       <div className="col-lg-6 col-md-6">
                         <div className="form-group">

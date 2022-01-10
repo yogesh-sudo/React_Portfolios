@@ -77,7 +77,7 @@ const Contact = () => {
                 <div className="section-title">
                   <h2 className="title-main hg-fadeInUp animated" data-animate="hg-fadeInUp" style={{visibility: 'visible'}}>Get In <span>Touch</span></h2>{/* /.title-main */}
                 </div>
-                <form id="contact_form" className="contact-form" action="#">
+                <form id="contact_form" className="contact-form" action="#/">
                   <div className="row">
                     <div className="col-lg-6">
                       <div className="form-group">

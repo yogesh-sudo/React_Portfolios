@@ -35,14 +35,14 @@ const Categories = () => {
                 <div className="sidebar-items">
                   <div className="product-cat-menu-area">
                     <ul className="product-cat-menu">
-                      <li><a href="#">Farm &amp; Agriculture <span>05</span></a></li>
-                      <li><a href="#">Decorative Art <span>22</span></a></li>
-                      <li><a href="#">Dolls, Bears &amp; Toys <span>15</span></a></li>
-                      <li><a href="#">Fine Art <span>10</span></a></li>
-                      <li><a href="#">Jewelry <span>35</span></a></li>
-                      <li><a href="#">Vehicles, Marine <span>22</span></a></li>
-                      <li><a href="#">Industrial Machinery <span>50</span></a></li>
-                      <li><a href="#">Real Estate <span>12</span></a></li>
+                      <li><a href="#/">Farm &amp; Agriculture <span>05</span></a></li>
+                      <li><a href="#/">Decorative Art <span>22</span></a></li>
+                      <li><a href="#/">Dolls, Bears &amp; Toys <span>15</span></a></li>
+                      <li><a href="#/">Fine Art <span>10</span></a></li>
+                      <li><a href="#/">Jewelry <span>35</span></a></li>
+                      <li><a href="#/">Vehicles, Marine <span>22</span></a></li>
+                      <li><a href="#/">Industrial Machinery <span>50</span></a></li>
+                      <li><a href="#/">Real Estate <span>12</span></a></li>
                     </ul>
                   </div>{/* /.product-cat-menu-area */}
                 </div>{/* /.sidebar-items */}
@@ -50,7 +50,7 @@ const Categories = () => {
               <div className="col-lg-8 auction-items-list md-mrt-60">
                 <div className="auction-item auction-list">
                   <div className="item-img">
-                    <a href="#">
+                    <a href="#/">
                       <img src="assets/images/auction/grid/product1.jpg" alt="Thumbnail" />
                       <img className="prod2" src="assets/images/auction/grid/product2.jpg" alt="Thumbnail" />
                     </a>
@@ -58,7 +58,7 @@ const Categories = () => {
                     <div className="item-price">Price: $339</div>
                   </div>{/* /.item-img */}
                   <div className="auction-info">
-                    <h3 className="heading"><a href="#">JBL GO Digital Drone</a></h3>
+                    <h3 className="heading"><a href="#/">JBL GO Digital Drone</a></h3>
                     <div className="auction-id">Auction ID: BB28111</div>
                     <div className="item-footer">
                       <div className="item-footer-top">
@@ -69,14 +69,14 @@ const Categories = () => {
                         </div>
                       </div>
                       <div className="bid-button">
-                        <a className="btn btn-default" href="#">Bid Now</a>
+                        <a className="btn btn-default" href="#/">Bid Now</a>
                       </div>
                     </div>{/* /.item-footer */}
                   </div>{/* /.auction-info */}
                 </div>{/* /.auction-item */}
                 <div className="auction-item auction-list">
                   <div className="item-img">
-                    <a href="#">
+                    <a href="#/">
                       <img src="assets/images/auction/grid/product4.jpg" alt="Thumbnail" />
                       <img className="prod2" src="assets/images/auction/grid/product3.jpg" alt="Thumbnail" />
                     </a>
@@ -84,7 +84,7 @@ const Categories = () => {
                     <div className="item-price">Price: $339</div>
                   </div>{/* /.item-img */}
                   <div className="auction-info">
-                    <h3 className="heading"><a href="#">BBB Bluetooth Headphone</a></h3>
+                    <h3 className="heading"><a href="#/">BBB Bluetooth Headphone</a></h3>
                     <div className="auction-id">Auction ID: BB28111</div>
                     <div className="item-footer">
                       <div className="item-footer-top">
@@ -95,14 +95,14 @@ const Categories = () => {
                         </div>
                       </div>
                       <div className="bid-button">
-                        <a className="btn btn-default" href="#">Bid Now</a>
+                        <a className="btn btn-default" href="#/">Bid Now</a>
                       </div>
                     </div>{/* /.item-footer */}
                   </div>{/* /.auction-info */}
                 </div>{/* /.auction-item */}
                 <div className="auction-item auction-list">
                   <div className="item-img">
-                    <a href="#">
+                    <a href="#/">
                       <img src="assets/images/auction/grid/product5.jpg" alt="Thumbnail" />
                       <img className="prod2" src="assets/images/auction/grid/product6.jpg" alt="Thumbnail" />
                     </a>
@@ -110,7 +110,7 @@ const Categories = () => {
                     <div className="item-price">Price: $339</div>
                   </div>{/* /.item-img */}
                   <div className="auction-info">
-                    <h3 className="heading"><a href="#">Android Mobile Phone</a></h3>
+                    <h3 className="heading"><a href="#/">Android Mobile Phone</a></h3>
                     <div className="auction-id">Auction ID: BB28111</div>
                     <div className="item-footer">
                       <div className="item-footer-top">
@@ -121,14 +121,14 @@ const Categories = () => {
                         </div>
                       </div>
                       <div className="bid-button">
-                        <a className="btn btn-default" href="#">Bid Now</a>
+                        <a className="btn btn-default" href="#/">Bid Now</a>
                       </div>
                     </div>{/* /.item-footer */}
                   </div>{/* /.auction-info */}
                 </div>{/* /.auction-item */}
                 <div className="auction-item auction-list">
                   <div className="item-img">
-                    <a href="#">
+                    <a href="#/">
                       <img src="assets/images/auction/grid/product3.jpg" alt="Thumbnail" />
                       <img className="prod2" src="assets/images/auction/grid/product4.jpg" alt="Thumbnail" />
                     </a>
@@ -136,7 +136,7 @@ const Categories = () => {
                     <div className="item-price">Price: $339</div>
                   </div>{/* /.item-img */}
                   <div className="auction-info">
-                    <h3 className="heading"><a href="#">Digital Headphone</a></h3>
+                    <h3 className="heading"><a href="#/">Digital Headphone</a></h3>
                     <div className="auction-id">Auction ID: BB28111</div>
                     <div className="item-footer">
                       <div className="item-footer-top">
@@ -147,14 +147,14 @@ const Categories = () => {
                         </div>
                       </div>
                       <div className="bid-button">
-                        <a className="btn btn-default" href="#">Bid Now</a>
+                        <a className="btn btn-default" href="#/">Bid Now</a>
                       </div>
                     </div>{/* /.item-footer */}
                   </div>{/* /.auction-info */}
                 </div>{/* /.auction-item */}
                 <div className="auction-item auction-list">
                   <div className="item-img">
-                    <a href="#">
+                    <a href="#/">
                       <img src="assets/images/auction/grid/product7.jpg" alt="Thumbnail" />
                       <img className="prod2" src="assets/images/auction/grid/product8.jpg" alt="Thumbnail" />
                     </a>
@@ -162,7 +162,7 @@ const Categories = () => {
                     <div className="item-price">Price: $339</div>
                   </div>{/* /.item-img */}
                   <div className="auction-info">
-                    <h3 className="heading"><a href="#">Realistic Watche</a></h3>
+                    <h3 className="heading"><a href="#/">Realistic Watche</a></h3>
                     <div className="auction-id">Auction ID: BB28111</div>
                     <div className="item-footer">
                       <div className="item-footer-top">
@@ -173,14 +173,14 @@ const Categories = () => {
                         </div>
                       </div>
                       <div className="bid-button">
-                        <a className="btn btn-default" href="#">Bid Now</a>
+                        <a className="btn btn-default" href="#/">Bid Now</a>
                       </div>
                     </div>{/* /.item-footer */}
                   </div>{/* /.auction-info */}
                 </div>{/* /.auction-item */}
                 <div className="auction-item auction-list">
                   <div className="item-img">
-                    <a href="#">
+                    <a href="#/">
                       <img src="assets/images/auction/grid/product2.jpg" alt="Thumbnail" />
                       <img className="prod2" src="assets/images/auction/grid/product1.jpg" alt="Thumbnail" />
                     </a>
@@ -188,7 +188,7 @@ const Categories = () => {
                     <div className="item-price">Price: $339</div>
                   </div>{/* /.item-img */}
                   <div className="auction-info">
-                    <h3 className="heading"><a href="#">JBL GO White Drone</a></h3>
+                    <h3 className="heading"><a href="#/">JBL GO White Drone</a></h3>
                     <div className="auction-id">Auction ID: BB28111</div>
                     <div className="item-footer">
                       <div className="item-footer-top">
@@ -199,7 +199,7 @@ const Categories = () => {
                         </div>
                       </div>
                       <div className="bid-button">
-                        <a className="btn btn-default" href="#">Bid Now</a>
+                        <a className="btn btn-default" href="#/">Bid Now</a>
                       </div>
                     </div>{/* /.item-footer */}
                   </div>{/* /.auction-info */}
@@ -211,11 +211,11 @@ const Categories = () => {
                 {/*~~~~~ Start Paging Navigation ~~~~~*/}
                 <nav className="paging-navigation paging-center pd-t-60">
                   <ul className="nav-links">                                   
-                    <li><a href="#">01</a></li>
-                    <li className="active"><a href="#" className="page-numbers">02</a></li>
-                    <li><a href="#" className="page-numbers">03</a></li>
+                    <li><a href="#/">01</a></li>
+                    <li className="active"><a href="#/" className="page-numbers">02</a></li>
+                    <li><a href="#/" className="page-numbers">03</a></li>
                     <li className="nav-next">
-                      <a href="#"><span className="icon-next1" /></a>
+                      <a href="#/"><span className="icon-next1" /></a>
                     </li>  
                   </ul>
                 </nav>{/*~./ end paging navigation ~*/}

@@ -65,12 +65,12 @@ const Footer = () => {
                   <h2 class="widget-title">Quick Link</h2>
                   <div class="widget-content">
                     <ul>
-                      <li><a href="#">My Account</a></li>
-                      <li><a href="#">Affiliate Program</a></li>
-                      <li><a href="#">Lawyer Consulting</a></li>
-                      <li><a href="#">Sorteo Licenses</a></li>
-                      <li><a href="#">Quick Start Guide</a></li>
-                      <li><a href="#">Privacy Policy</a></li>
+                      <li><a href="#/">My Account</a></li>
+                      <li><a href="#/">Affiliate Program</a></li>
+                      <li><a href="#/">Lawyer Consulting</a></li>
+                      <li><a href="#/">Sorteo Licenses</a></li>
+                      <li><a href="#/">Quick Start Guide</a></li>
+                      <li><a href="#/">Privacy Policy</a></li>
                     </ul>
                   </div>
                 </aside>
@@ -83,12 +83,12 @@ const Footer = () => {
                   <h2 class="widget-title">Help Center</h2>
                   <div class="widget-content">
                     <ul>
-                      <li><a href="#">Help centre</a></li>
-                      <li><a href="#">FAQ</a></li>
-                      <li><a href="#">Tutorials</a></li>
-                      <li><a href="#">Terms of Service</a></li>
-                      <li><a href="#">Borrow</a></li>
-                      <li><a href="#">Complaints Policy</a></li>
+                      <li><a href="#/">Help centre</a></li>
+                      <li><a href="#/">FAQ</a></li>
+                      <li><a href="#/">Tutorials</a></li>
+                      <li><a href="#/">Terms of Service</a></li>
+                      <li><a href="#/">Borrow</a></li>
+                      <li><a href="#/">Complaints Policy</a></li>
                     </ul>
                   </div>
                 </aside>
